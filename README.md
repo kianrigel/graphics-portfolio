@@ -22,3 +22,6 @@ Open `index.html` directly, or run `python -m http.server 8000` inside this fold
 - `index.html` — structure, navigation, sections, accessible modal and form
 - `styles.css` — responsive design system, interactions, effects
 - `script.js` — project records, filters, modal, video player, validation, cursor and canvas effects
+
+## Certificate archive (updated November 2026)
+Four verified certificates are stored as original PDFs with local WebP previews in `assets/certificates/`, ensuring reliable GitHub Pages display. The portfolio no longer includes the wireframing essay, portfolio PDF study, or research/algorithm section. The navigation now displays Certificates.
