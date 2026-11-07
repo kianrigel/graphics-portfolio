@@ -53,10 +53,10 @@ renderProjects();
 
 // Verified 2026 certificates. Originals are stored locally for reliable GitHub Pages previews.
 const certificates=[
-{title:"Media & Information Literacy",subtitle:"Copy, Paste: Rebuilding the Media Platform",date:"October 20, 2026",issuer:"City College of Calamba \u00b7 Supreme Student Council",image:'assets/certificates/mil-2026.webp',pdf:'assets/certificates/mil-2026.pdf'},
-{title:"FinTech: Where Technology Meets Business Innovation",subtitle:"Certificate of Recognition",date:"September 25, 2026",issuer:"Computer Science Society \u00b7 City College of Calamba",image:'assets/certificates/fintech-2026.webp',pdf:'assets/certificates/fintech-2026.pdf'},
-{title:"ASIN AT ILAW Leadership Seminar",subtitle:"PANANAGUTAN: Leaving or Leading?",date:"October 19, 2026",issuer:"Supreme Student Council \u00b7 Council of Student Leaders",image:'assets/certificates/leadership-2026.webp',pdf:'assets/certificates/leadership-2026.pdf'},
-{title:"HIV Awareness Seminar 2026",subtitle:"Unheard Voices, Untold Stories",date:"October 22, 2026",issuer:"City College of Calamba \u00b7 Supreme Student Council",image:'assets/certificates/hiv-awareness-2026.webp',pdf:'assets/certificates/hiv-awareness-2026.pdf'},
+{title:"Media & Information Literacy",subtitle:"Copy, Paste: Rebuilding the Media Platform",date:"October 20, 2026",issuer:"City College of Calamba \u00b7 Supreme Student Council",image:'mil-2026.webp',pdf:'mil-2026.pdf'},
+{title:"FinTech: Where Technology Meets Business Innovation",subtitle:"Certificate of Recognition",date:"September 25, 2026",issuer:"Computer Science Society \u00b7 City College of Calamba",image:'fintech-2026.webp',pdf:'fintech-2026.pdf'},
+{title:"ASIN AT ILAW Leadership Seminar",subtitle:"PANANAGUTAN: Leaving or Leading?",date:"October 19, 2026",issuer:"Supreme Student Council \u00b7 Council of Student Leaders",image:'leadership-2026.webp',pdf:'leadership-2026.pdf'},
+{title:"HIV Awareness Seminar 2026",subtitle:"Unheard Voices, Untold Stories",date:"October 22, 2026",issuer:"City College of Calamba \u00b7 Supreme Student Council",image:'hiv-awareness-2026.webp',pdf:'hiv-awareness-2026.pdf'},
 
 ];
 const certGrid=$('#certificateGrid');
